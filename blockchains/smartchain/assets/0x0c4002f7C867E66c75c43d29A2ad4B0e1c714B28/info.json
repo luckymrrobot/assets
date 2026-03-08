@@ -8,17 +8,10 @@
   "decimals": 4,
   "status": "active",
   "id": "0x0c4002f7C867E66c75c43d29A2ad4B0e1c714B28",
-  "tags": [
-    "gaming"
-  ],
   "links": [
     {
       "name": "twitter",
       "url": "https://x.com/Laoyaboohoo"
-    },
-    {
-      "name": "coinmarketcap",
-      "url": "https://dex.coinmarketcap.com/token/bsc/0x0c4002f7c867e66c75c43d29a2ad4b0e1c714b28/"
     }
   ]
 }
