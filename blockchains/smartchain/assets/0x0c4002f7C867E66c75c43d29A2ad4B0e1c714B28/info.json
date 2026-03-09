@@ -1,6 +1,6 @@
 {
   "name": "JOSSPAPER",
-  "website": "https://laoyaboohoo.com/",
+  "website": "https://laoyaboohoo.com/index.html",
   "description": "Laoyaboohoo is a blockchain-based folk ritual game featuring a deity system, offering system, and prayer system, designed to awaken people's pursuit of the spiritual world or maintain inner peace. JOSSPAPER is the base payment token for this game.",
   "explorer": "https://bscscan.com/token/0x0c4002f7C867E66c75c43d29A2ad4B0e1c714B28",
   "type": "BEP20",
@@ -22,3 +22,4 @@
     }
   ]
 }
+
